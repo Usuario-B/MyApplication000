@@ -3,7 +3,7 @@ package es.upv.etsit.aatt.myapplication000;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity { //añlskdjlñakjsdfñlaksjdfñlk añsldkfjñalksdfj añlskdfj ñalskdfjlñaskdjf
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
